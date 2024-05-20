@@ -3,6 +3,8 @@ import java.util.*;
 
 public class Main {
 
+    //문제 링크
+    // https://softeer.ai/app/assessment/index.html?xid=102431&xsrfToken=ElPfqJVHAwAb9TXkTev0TNqQrr8Xu3mU&testType=practice
     public static List<Pair> member;
     public static int[] numbers;
     public static boolean[] isUsed;

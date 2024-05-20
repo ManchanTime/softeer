@@ -2,10 +2,6 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
-    Link: [문제링크][googlelink]
-
-    [googlelink]: https://google.com "Go google"
     public static List<Pair> member;
     public static int[] numbers;
     public static boolean[] isUsed;

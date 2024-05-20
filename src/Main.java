@@ -3,8 +3,9 @@ import java.util.*;
 
 public class Main {
 
-    //문제 링크
-    [문제 링크](https://softeer.ai/app/assessment/index.html?xid=102431&xsrfToken=ElPfqJVHAwAb9TXkTev0TNqQrr8Xu3mU&testType=practice)
+    Link: [문제링크][googlelink]
+
+    [googlelink]: https://google.com "Go google"
     public static List<Pair> member;
     public static int[] numbers;
     public static boolean[] isUsed;
